@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ibrahem</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<img align="right"  src="https://media1.giphy.com/media/QTfX9Ejfra3ZmNxh6B/200.gif">
+<img align="right" width="200" src="https://media1.giphy.com/media/QTfX9Ejfra3ZmNxh6B/200.gif">
 
 - 📫 How to reach me **ahmed.ibrahem.work.31@gmail.com**
 
